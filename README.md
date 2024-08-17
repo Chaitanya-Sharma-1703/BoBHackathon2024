@@ -58,10 +58,8 @@ Generative AI with RAG: Combines generative AI with retrieval-augmented generati
 * Interactive Chatbot Interface: Offers an AI-driven chatbot for seamless interaction and user support.
 * Automated Risk Mitigation Strategies: Generates actionable strategies automatically, ensuring timely responses to potential risks.
 * Regulatory Compliance Integration: Ensures adherence to regulatory standards and provides audit trails for transparency.
-
-
-
-
+![Screenshot (2570)](https://github.com/user-attachments/assets/dae3df87-3a64-42d9-ab91-03f7cc4d9239)
+![Screenshot (2571)](https://github.com/user-attachments/assets/9d0483c1-f775-4a75-9067-528956c844f9)
 
 
 
